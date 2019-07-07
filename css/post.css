@@ -1,0 +1,61 @@
+.blogTite {
+    font-size: 150%;
+    font-family: 'Abel', sans-serif;
+    font-weight: bold;
+}
+.blogText {
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.blogAuthor {
+    padding: 0px 0px 0px 10px;
+    font-family: 'Niconne', cursive;
+    font-size: 30px;
+}
+.blogContent{
+
+}
+
+/* Set a style for all the remaining elements like Like button, Edit button, Comment button and so on. */
+.edi{
+background-color:#FF69B4;
+color:white;
+position:absolute;
+top:25%;
+right:10%;
+}
+.lik{
+background-color:#FF69B4;
+color:white;
+position:absolute;
+top:70%;
+left:7%;
+}
+.like{
+color:black;
+position:absolute;
+top:71%;
+left:4%;
+}
+.li{
+color:black;
+position:absolute;
+top:91%;
+left:4%;
+background-color:#FF69B4;
+}
+.ip{
+color:black;
+position:absolute;
+top:78%;
+left:3%;
+padding:2%
+}
+.com{
+position:absolute;
+top:91%;
+font-weight:bold;
+color:black;
+}
+
+
